@@ -1,0 +1,18 @@
+
+# Orders Authorize 400 Issues Items
+
+## Class Name
+
+`OrdersAuthorize400IssuesItems`
+
+## Cases
+
+| Type | Factory Method |
+|  --- | --- |
+| [`INVALIDCOUNTRYCODEERROR`](../../../doc/models/invalidcountrycodeerror.md) | OrdersAuthorize400IssuesItems.fromINVALIDCOUNTRYCODEERROR(INVALIDCOUNTRYCODEERROR iNVALIDCOUNTRYCODEERROR) |
+| [`INVALIDPARAMETERVALUEERROR1`](../../../doc/models/invalidparametervalueerror1.md) | OrdersAuthorize400IssuesItems.fromINVALIDPARAMETERVALUEERROR1(INVALIDPARAMETERVALUEERROR1 iNVALIDPARAMETERVALUEERROR1) |
+| [`MISSINGREQUIREDPARAMETERERROR1`](../../../doc/models/missingrequiredparametererror1.md) | OrdersAuthorize400IssuesItems.fromMISSINGREQUIREDPARAMETERERROR1(MISSINGREQUIREDPARAMETERERROR1 mISSINGREQUIREDPARAMETERERROR1) |
+| [`INVALIDSTRINGLENGTHERROR1`](../../../doc/models/invalidstringlengtherror1.md) | OrdersAuthorize400IssuesItems.fromINVALIDSTRINGLENGTHERROR1(INVALIDSTRINGLENGTHERROR1 iNVALIDSTRINGLENGTHERROR1) |
+| [`INVALIDPARAMETERSYNTAXERROR1`](../../../doc/models/invalidparametersyntaxerror1.md) | OrdersAuthorize400IssuesItems.fromINVALIDPARAMETERSYNTAXERROR1(INVALIDPARAMETERSYNTAXERROR1 iNVALIDPARAMETERSYNTAXERROR1) |
+| [`MALFORMEDREQUESTJSONRESULT`](../../../doc/models/malformedrequestjsonresult.md) | OrdersAuthorize400IssuesItems.fromMALFORMEDREQUESTJSONRESULT(MALFORMEDREQUESTJSONRESULT mALFORMEDREQUESTJSONRESULT) |
+

@@ -1,0 +1,45 @@
+
+# Card Attributes Response
+
+Additional attributes associated with the use of this card.
+
+## Structure
+
+`CardAttributesResponse`
+
+## Fields
+
+| Name | Type | Tags | Description | Getter | Setter |
+|  --- | --- | --- | --- | --- | --- |
+| `Vault` | [`SavedPaymentSourceResponse`](../../doc/models/saved-payment-source-response.md) | Optional | The details about a saved payment source. | SavedPaymentSourceResponse getVault() | setVault(SavedPaymentSourceResponse vault) |
+
+## Example (as JSON)
+
+```json
+{
+  "vault": {
+    "id": "id6",
+    "status": "APPROVED",
+    "customer": {
+      "id": "id0",
+      "email_address": "email_address2",
+      "phone": {
+        "phone_type": "FAX",
+        "phone_number": {
+          "country_code": "country_code2",
+          "national_number": "national_number6",
+          "extension_number": "extension_number8"
+        }
+      }
+    },
+    "links": [
+      {
+        "href": "href6",
+        "rel": "rel0",
+        "method": "HEAD"
+      }
+    ]
+  }
+}
+```
+

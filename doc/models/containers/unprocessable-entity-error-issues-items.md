@@ -1,0 +1,110 @@
+
+# Unprocessable Entity Error Issues Items
+
+## Class Name
+
+`UnprocessableEntityErrorIssuesItems`
+
+## Cases
+
+| Type | Factory Method |
+|  --- | --- |
+| [`AMOUNTMISMATCH`](../../../doc/models/amountmismatch.md) | UnprocessableEntityErrorIssuesItems.fromAMOUNTMISMATCH(AMOUNTMISMATCH aMOUNTMISMATCH) |
+| [`CANNOTBENEGATIVE`](../../../doc/models/cannotbenegative.md) | UnprocessableEntityErrorIssuesItems.fromCANNOTBENEGATIVE(CANNOTBENEGATIVE cANNOTBENEGATIVE) |
+| [`CANNOTBEZEROORNEGATIVE`](../../../doc/models/cannotbezeroornegative.md) | UnprocessableEntityErrorIssuesItems.fromCANNOTBEZEROORNEGATIVE(CANNOTBEZEROORNEGATIVE cANNOTBEZEROORNEGATIVE) |
+| [`CARDEXPIRED`](../../../doc/models/cardexpired.md) | UnprocessableEntityErrorIssuesItems.fromCARDEXPIRED(CARDEXPIRED cARDEXPIRED) |
+| [`MISSINGPREVIOUSREFERENCE`](../../../doc/models/missingpreviousreference.md) | UnprocessableEntityErrorIssuesItems.fromMISSINGPREVIOUSREFERENCE(MISSINGPREVIOUSREFERENCE mISSINGPREVIOUSREFERENCE) |
+| [`MISSINGCRYPTOGRAM`](../../../doc/models/missingcryptogram.md) | UnprocessableEntityErrorIssuesItems.fromMISSINGCRYPTOGRAM(MISSINGCRYPTOGRAM mISSINGCRYPTOGRAM) |
+| [`CITYREQUIRED`](../../../doc/models/cityrequired.md) | UnprocessableEntityErrorIssuesItems.fromCITYREQUIRED(CITYREQUIRED cITYREQUIRED) |
+| [`DECIMALPRECISION`](../../../doc/models/decimalprecision.md) | UnprocessableEntityErrorIssuesItems.fromDECIMALPRECISION(DECIMALPRECISION dECIMALPRECISION) |
+| [`DONATIONITEMSNOTSUPPORTED`](../../../doc/models/donationitemsnotsupported.md) | UnprocessableEntityErrorIssuesItems.fromDONATIONITEMSNOTSUPPORTED(DONATIONITEMSNOTSUPPORTED dONATIONITEMSNOTSUPPORTED) |
+| [`DUPLICATEREFERENCEID`](../../../doc/models/duplicatereferenceid.md) | UnprocessableEntityErrorIssuesItems.fromDUPLICATEREFERENCEID(DUPLICATEREFERENCEID dUPLICATEREFERENCEID) |
+| [`INVALIDCURRENCYCODE`](../../../doc/models/invalidcurrencycode.md) | UnprocessableEntityErrorIssuesItems.fromINVALIDCURRENCYCODE(INVALIDCURRENCYCODE iNVALIDCURRENCYCODE) |
+| [`INVALIDPAYERID`](../../../doc/models/invalidpayerid.md) | UnprocessableEntityErrorIssuesItems.fromINVALIDPAYERID(INVALIDPAYERID iNVALIDPAYERID) |
+| [`ITEMTOTALMISMATCH`](../../../doc/models/itemtotalmismatch.md) | UnprocessableEntityErrorIssuesItems.fromITEMTOTALMISMATCH(ITEMTOTALMISMATCH iTEMTOTALMISMATCH) |
+| [`ITEMTOTALREQUIRED`](../../../doc/models/itemtotalrequired.md) | UnprocessableEntityErrorIssuesItems.fromITEMTOTALREQUIRED(ITEMTOTALREQUIRED iTEMTOTALREQUIRED) |
+| [`MAXVALUEEXCEEDED`](../../../doc/models/maxvalueexceeded.md) | UnprocessableEntityErrorIssuesItems.fromMAXVALUEEXCEEDED(MAXVALUEEXCEEDED mAXVALUEEXCEEDED) |
+| [`MISSINGPICKUPADDRESS`](../../../doc/models/missingpickupaddress.md) | UnprocessableEntityErrorIssuesItems.fromMISSINGPICKUPADDRESS(MISSINGPICKUPADDRESS mISSINGPICKUPADDRESS) |
+| [`MULTICURRENCYORDER`](../../../doc/models/multicurrencyorder.md) | UnprocessableEntityErrorIssuesItems.fromMULTICURRENCYORDER(MULTICURRENCYORDER mULTICURRENCYORDER) |
+| [`MULTIPLEITEMCATEGORIES`](../../../doc/models/multipleitemcategories.md) | UnprocessableEntityErrorIssuesItems.fromMULTIPLEITEMCATEGORIES(MULTIPLEITEMCATEGORIES mULTIPLEITEMCATEGORIES) |
+| [`MULTIPLESHIPPINGADDRESSNOTSUPPORTED`](../../../doc/models/multipleshippingaddressnotsupported.md) | UnprocessableEntityErrorIssuesItems.fromMULTIPLESHIPPINGADDRESSNOTSUPPORTED(MULTIPLESHIPPINGADDRESSNOTSUPPORTED mULTIPLESHIPPINGADDRESSNOTSUPPORTED) |
+| [`MULTIPLESHIPPINGTYPENOTSUPPORTED`](../../../doc/models/multipleshippingtypenotsupported.md) | UnprocessableEntityErrorIssuesItems.fromMULTIPLESHIPPINGTYPENOTSUPPORTED(MULTIPLESHIPPINGTYPENOTSUPPORTED mULTIPLESHIPPINGTYPENOTSUPPORTED) |
+| [`PAYEEACCOUNTINVALID`](../../../doc/models/payeeaccountinvalid.md) | UnprocessableEntityErrorIssuesItems.fromPAYEEACCOUNTINVALID(PAYEEACCOUNTINVALID pAYEEACCOUNTINVALID) |
+| [`PAYEEACCOUNTLOCKEDORCLOSED`](../../../doc/models/payeeaccountlockedorclosed.md) | UnprocessableEntityErrorIssuesItems.fromPAYEEACCOUNTLOCKEDORCLOSED(PAYEEACCOUNTLOCKEDORCLOSED pAYEEACCOUNTLOCKEDORCLOSED) |
+| [`PAYEEACCOUNTRESTRICTED`](../../../doc/models/payeeaccountrestricted.md) | UnprocessableEntityErrorIssuesItems.fromPAYEEACCOUNTRESTRICTED(PAYEEACCOUNTRESTRICTED pAYEEACCOUNTRESTRICTED) |
+| [`PAYEEPRICINGTIERIDNOTENABLED`](../../../doc/models/payeepricingtieridnotenabled.md) | UnprocessableEntityErrorIssuesItems.fromPAYEEPRICINGTIERIDNOTENABLED(PAYEEPRICINGTIERIDNOTENABLED pAYEEPRICINGTIERIDNOTENABLED) |
+| [`INVALIDPAYEEPRICINGTIERID`](../../../doc/models/invalidpayeepricingtierid.md) | UnprocessableEntityErrorIssuesItems.fromINVALIDPAYEEPRICINGTIERID(INVALIDPAYEEPRICINGTIERID iNVALIDPAYEEPRICINGTIERID) |
+| [`PAYEEFXRATEIDEXPIRED`](../../../doc/models/payeefxrateidexpired.md) | UnprocessableEntityErrorIssuesItems.fromPAYEEFXRATEIDEXPIRED(PAYEEFXRATEIDEXPIRED pAYEEFXRATEIDEXPIRED) |
+| [`PAYEEFXRATEIDCURRENCYMISMATCH`](../../../doc/models/payeefxrateidcurrencymismatch.md) | UnprocessableEntityErrorIssuesItems.fromPAYEEFXRATEIDCURRENCYMISMATCH(PAYEEFXRATEIDCURRENCYMISMATCH pAYEEFXRATEIDCURRENCYMISMATCH) |
+| [`INVALIDFXRATEID`](../../../doc/models/invalidfxrateid.md) | UnprocessableEntityErrorIssuesItems.fromINVALIDFXRATEID(INVALIDFXRATEID iNVALIDFXRATEID) |
+| [`PLATFORMFEESNOTSUPPORTED`](../../../doc/models/platformfeesnotsupported.md) | UnprocessableEntityErrorIssuesItems.fromPLATFORMFEESNOTSUPPORTED(PLATFORMFEESNOTSUPPORTED pLATFORMFEESNOTSUPPORTED) |
+| [`INVALIDPLATFORMFEESACCOUNT`](../../../doc/models/invalidplatformfeesaccount.md) | UnprocessableEntityErrorIssuesItems.fromINVALIDPLATFORMFEESACCOUNT(INVALIDPLATFORMFEESACCOUNT iNVALIDPLATFORMFEESACCOUNT) |
+| [`INVALIDPLATFORMFEESAMOUNT`](../../../doc/models/invalidplatformfeesamount.md) | UnprocessableEntityErrorIssuesItems.fromINVALIDPLATFORMFEESAMOUNT(INVALIDPLATFORMFEESAMOUNT iNVALIDPLATFORMFEESAMOUNT) |
+| [`POSTALCODEREQUIRED`](../../../doc/models/postalcoderequired.md) | UnprocessableEntityErrorIssuesItems.fromPOSTALCODEREQUIRED(POSTALCODEREQUIRED pOSTALCODEREQUIRED) |
+| [`REFERENCEIDREQUIRED`](../../../doc/models/referenceidrequired.md) | UnprocessableEntityErrorIssuesItems.fromREFERENCEIDREQUIRED(REFERENCEIDREQUIRED rEFERENCEIDREQUIRED) |
+| [`SHIPPINGOPTIONSNOTSUPPORTED`](../../../doc/models/shippingoptionsnotsupported.md) | UnprocessableEntityErrorIssuesItems.fromSHIPPINGOPTIONSNOTSUPPORTED(SHIPPINGOPTIONSNOTSUPPORTED sHIPPINGOPTIONSNOTSUPPORTED) |
+| [`TAXTOTALMISMATCH`](../../../doc/models/taxtotalmismatch.md) | UnprocessableEntityErrorIssuesItems.fromTAXTOTALMISMATCH(TAXTOTALMISMATCH tAXTOTALMISMATCH) |
+| [`TAXTOTALREQUIRED`](../../../doc/models/taxtotalrequired.md) | UnprocessableEntityErrorIssuesItems.fromTAXTOTALREQUIRED(TAXTOTALREQUIRED tAXTOTALREQUIRED) |
+| [`UNSUPPORTEDINTENT`](../../../doc/models/unsupportedintent.md) | UnprocessableEntityErrorIssuesItems.fromUNSUPPORTEDINTENT(UNSUPPORTEDINTENT uNSUPPORTEDINTENT) |
+| [`UNSUPPORTEDPAYMENTINSTRUCTION`](../../../doc/models/unsupportedpaymentinstruction.md) | UnprocessableEntityErrorIssuesItems.fromUNSUPPORTEDPAYMENTINSTRUCTION(UNSUPPORTEDPAYMENTINSTRUCTION uNSUPPORTEDPAYMENTINSTRUCTION) |
+| [`SHIPPINGTYPENOTSUPPORTEDFORCLIENT`](../../../doc/models/shippingtypenotsupportedforclient.md) | UnprocessableEntityErrorIssuesItems.fromSHIPPINGTYPENOTSUPPORTEDFORCLIENT(SHIPPINGTYPENOTSUPPORTEDFORCLIENT sHIPPINGTYPENOTSUPPORTEDFORCLIENT) |
+| [`UNSUPPORTEDSHIPPINGTYPE`](../../../doc/models/unsupportedshippingtype.md) | UnprocessableEntityErrorIssuesItems.fromUNSUPPORTEDSHIPPINGTYPE(UNSUPPORTEDSHIPPINGTYPE uNSUPPORTEDSHIPPINGTYPE) |
+| [`SHIPPINGOPTIONNOTSELECTED`](../../../doc/models/shippingoptionnotselected.md) | UnprocessableEntityErrorIssuesItems.fromSHIPPINGOPTIONNOTSELECTED(SHIPPINGOPTIONNOTSELECTED sHIPPINGOPTIONNOTSELECTED) |
+| [`MULTIPLESHIPPINGOPTIONSELECTED`](../../../doc/models/multipleshippingoptionselected.md) | UnprocessableEntityErrorIssuesItems.fromMULTIPLESHIPPINGOPTIONSELECTED(MULTIPLESHIPPINGOPTIONSELECTED mULTIPLESHIPPINGOPTIONSELECTED) |
+| [`PREFERREDSHIPPINGOPTIONAMOUNTMISMATCH`](../../../doc/models/preferredshippingoptionamountmismatch.md) | UnprocessableEntityErrorIssuesItems.fromPREFERREDSHIPPINGOPTIONAMOUNTMISMATCH(PREFERREDSHIPPINGOPTIONAMOUNTMISMATCH pREFERREDSHIPPINGOPTIONAMOUNTMISMATCH) |
+| [`AGREEMENTALREADYCANCELLED`](../../../doc/models/agreementalreadycancelled.md) | UnprocessableEntityErrorIssuesItems.fromAGREEMENTALREADYCANCELLED(AGREEMENTALREADYCANCELLED aGREEMENTALREADYCANCELLED) |
+| [`BILLINGAGREEMENTNOTFOUND`](../../../doc/models/billingagreementnotfound.md) | UnprocessableEntityErrorIssuesItems.fromBILLINGAGREEMENTNOTFOUND(BILLINGAGREEMENTNOTFOUND bILLINGAGREEMENTNOTFOUND) |
+| [`COMPLIANCEVIOLATION`](../../../doc/models/complianceviolation.md) | UnprocessableEntityErrorIssuesItems.fromCOMPLIANCEVIOLATION(COMPLIANCEVIOLATION cOMPLIANCEVIOLATION) |
+| [`DOMESTICTRANSACTIONREQUIRED`](../../../doc/models/domestictransactionrequired.md) | UnprocessableEntityErrorIssuesItems.fromDOMESTICTRANSACTIONREQUIRED(DOMESTICTRANSACTIONREQUIRED dOMESTICTRANSACTIONREQUIRED) |
+| [`DUPLICATEINVOICEID`](../../../doc/models/duplicateinvoiceid.md) | UnprocessableEntityErrorIssuesItems.fromDUPLICATEINVOICEID(DUPLICATEINVOICEID dUPLICATEINVOICEID) |
+| [`INSTRUMENTDECLINED`](../../../doc/models/instrumentdeclined.md) | UnprocessableEntityErrorIssuesItems.fromINSTRUMENTDECLINED(INSTRUMENTDECLINED iNSTRUMENTDECLINED) |
+| [`MAXNUMBEROFPAYMENTATTEMPTSEXCEEDED`](../../../doc/models/maxnumberofpaymentattemptsexceeded.md) | UnprocessableEntityErrorIssuesItems.fromMAXNUMBEROFPAYMENTATTEMPTSEXCEEDED(MAXNUMBEROFPAYMENTATTEMPTSEXCEEDED mAXNUMBEROFPAYMENTATTEMPTSEXCEEDED) |
+| [`NOTENABLEDFORCARDPROCESSING`](../../../doc/models/notenabledforcardprocessing.md) | UnprocessableEntityErrorIssuesItems.fromNOTENABLEDFORCARDPROCESSING(NOTENABLEDFORCARDPROCESSING nOTENABLEDFORCARDPROCESSING) |
+| [`PAYEEBLOCKEDTRANSACTION`](../../../doc/models/payeeblockedtransaction.md) | UnprocessableEntityErrorIssuesItems.fromPAYEEBLOCKEDTRANSACTION(PAYEEBLOCKEDTRANSACTION pAYEEBLOCKEDTRANSACTION) |
+| [`PAYERACCOUNTLOCKEDORCLOSED`](../../../doc/models/payeraccountlockedorclosed.md) | UnprocessableEntityErrorIssuesItems.fromPAYERACCOUNTLOCKEDORCLOSED(PAYERACCOUNTLOCKEDORCLOSED pAYERACCOUNTLOCKEDORCLOSED) |
+| [`PAYERACCOUNTRESTRICTED`](../../../doc/models/payeraccountrestricted.md) | UnprocessableEntityErrorIssuesItems.fromPAYERACCOUNTRESTRICTED(PAYERACCOUNTRESTRICTED pAYERACCOUNTRESTRICTED) |
+| [`PAYERCANNOTPAY`](../../../doc/models/payercannotpay.md) | UnprocessableEntityErrorIssuesItems.fromPAYERCANNOTPAY(PAYERCANNOTPAY pAYERCANNOTPAY) |
+| [`TRANSACTIONBLOCKEDBYPAYEE`](../../../doc/models/transactionblockedbypayee.md) | UnprocessableEntityErrorIssuesItems.fromTRANSACTIONBLOCKEDBYPAYEE(TRANSACTIONBLOCKEDBYPAYEE tRANSACTIONBLOCKEDBYPAYEE) |
+| [`TRANSACTIONLIMITEXCEEDED`](../../../doc/models/transactionlimitexceeded.md) | UnprocessableEntityErrorIssuesItems.fromTRANSACTIONLIMITEXCEEDED(TRANSACTIONLIMITEXCEEDED tRANSACTIONLIMITEXCEEDED) |
+| [`TRANSACTIONRECEIVINGLIMITEXCEEDED`](../../../doc/models/transactionreceivinglimitexceeded.md) | UnprocessableEntityErrorIssuesItems.fromTRANSACTIONRECEIVINGLIMITEXCEEDED(TRANSACTIONRECEIVINGLIMITEXCEEDED tRANSACTIONRECEIVINGLIMITEXCEEDED) |
+| [`TRANSACTIONREFUSED`](../../../doc/models/transactionrefused.md) | UnprocessableEntityErrorIssuesItems.fromTRANSACTIONREFUSED(TRANSACTIONREFUSED tRANSACTIONREFUSED) |
+| [`AUTHCAPTURENOTENABLED`](../../../doc/models/authcapturenotenabled.md) | UnprocessableEntityErrorIssuesItems.fromAUTHCAPTURENOTENABLED(AUTHCAPTURENOTENABLED aUTHCAPTURENOTENABLED) |
+| [`UNSUPPORTEDPROCESSINGINSTRUCTION`](../../../doc/models/unsupportedprocessinginstruction.md) | UnprocessableEntityErrorIssuesItems.fromUNSUPPORTEDPROCESSINGINSTRUCTION(UNSUPPORTEDPROCESSINGINSTRUCTION uNSUPPORTEDPROCESSINGINSTRUCTION) |
+| [`ORDERCOMPLETEONPAYMENTAPPROVAL`](../../../doc/models/ordercompleteonpaymentapproval.md) | UnprocessableEntityErrorIssuesItems.fromORDERCOMPLETEONPAYMENTAPPROVAL(ORDERCOMPLETEONPAYMENTAPPROVAL oRDERCOMPLETEONPAYMENTAPPROVAL) |
+| [`INVALIDEXPIRYDATE`](../../../doc/models/invalidexpirydate.md) | UnprocessableEntityErrorIssuesItems.fromINVALIDEXPIRYDATE(INVALIDEXPIRYDATE iNVALIDEXPIRYDATE) |
+| [`INCOMPATIBLEPARAMETERVALUE`](../../../doc/models/incompatibleparametervalue.md) | UnprocessableEntityErrorIssuesItems.fromINCOMPATIBLEPARAMETERVALUE(INCOMPATIBLEPARAMETERVALUE iNCOMPATIBLEPARAMETERVALUE) |
+| [`INVALIDPREVIOUSTRANSACTIONREFERENCE`](../../../doc/models/invalidprevioustransactionreference.md) | UnprocessableEntityErrorIssuesItems.fromINVALIDPREVIOUSTRANSACTIONREFERENCE(INVALIDPREVIOUSTRANSACTIONREFERENCE iNVALIDPREVIOUSTRANSACTIONREFERENCE) |
+| [`PREVIOUSTRANSACTIONREFERENCEHASCHARGEBACK`](../../../doc/models/previoustransactionreferencehaschargeback.md) | UnprocessableEntityErrorIssuesItems.fromPREVIOUSTRANSACTIONREFERENCEHASCHARGEBACK(PREVIOUSTRANSACTIONREFERENCEHASCHARGEBACK pREVIOUSTRANSACTIONREFERENCEHASCHARGEBACK) |
+| [`PREVIOUSTRANSACTIONREFERENCEVOIDED`](../../../doc/models/previoustransactionreferencevoided.md) | UnprocessableEntityErrorIssuesItems.fromPREVIOUSTRANSACTIONREFERENCEVOIDED(PREVIOUSTRANSACTIONREFERENCEVOIDED pREVIOUSTRANSACTIONREFERENCEVOIDED) |
+| [`PAYMENTSOURCEMISMATCH`](../../../doc/models/paymentsourcemismatch.md) | UnprocessableEntityErrorIssuesItems.fromPAYMENTSOURCEMISMATCH(PAYMENTSOURCEMISMATCH pAYMENTSOURCEMISMATCH) |
+| [`MERCHANTINITIATEDWITHSECURITYCODE`](../../../doc/models/merchantinitiatedwithsecuritycode.md) | UnprocessableEntityErrorIssuesItems.fromMERCHANTINITIATEDWITHSECURITYCODE(MERCHANTINITIATEDWITHSECURITYCODE mERCHANTINITIATEDWITHSECURITYCODE) |
+| [`MERCHANTINITIATEDWITHAUTHENTICATIONRESULTS`](../../../doc/models/merchantinitiatedwithauthenticationresults.md) | UnprocessableEntityErrorIssuesItems.fromMERCHANTINITIATEDWITHAUTHENTICATIONRESULTS(MERCHANTINITIATEDWITHAUTHENTICATIONRESULTS mERCHANTINITIATEDWITHAUTHENTICATIONRESULTS) |
+| [`MERCHANTINITIATEDWITHMULTIPLEPURCHASEUNITS`](../../../doc/models/merchantinitiatedwithmultiplepurchaseunits.md) | UnprocessableEntityErrorIssuesItems.fromMERCHANTINITIATEDWITHMULTIPLEPURCHASEUNITS(MERCHANTINITIATEDWITHMULTIPLEPURCHASEUNITS mERCHANTINITIATEDWITHMULTIPLEPURCHASEUNITS) |
+| [`PAYMENTSOURCEINFOCANNOTBEVERIFIED`](../../../doc/models/paymentsourceinfocannotbeverified.md) | UnprocessableEntityErrorIssuesItems.fromPAYMENTSOURCEINFOCANNOTBEVERIFIED(PAYMENTSOURCEINFOCANNOTBEVERIFIED pAYMENTSOURCEINFOCANNOTBEVERIFIED) |
+| [`PAYMENTSOURCEDECLINEDBYPROCESSOR`](../../../doc/models/paymentsourcedeclinedbyprocessor.md) | UnprocessableEntityErrorIssuesItems.fromPAYMENTSOURCEDECLINEDBYPROCESSOR(PAYMENTSOURCEDECLINEDBYPROCESSOR pAYMENTSOURCEDECLINEDBYPROCESSOR) |
+| [`PAYMENTSOURCECANNOTBEUSED`](../../../doc/models/paymentsourcecannotbeused.md) | UnprocessableEntityErrorIssuesItems.fromPAYMENTSOURCECANNOTBEUSED(PAYMENTSOURCECANNOTBEUSED pAYMENTSOURCECANNOTBEUSED) |
+| [`NOTENABLEDFORAPPLEPAY`](../../../doc/models/notenabledforapplepay.md) | UnprocessableEntityErrorIssuesItems.fromNOTENABLEDFORAPPLEPAY(NOTENABLEDFORAPPLEPAY nOTENABLEDFORAPPLEPAY) |
+| [`NOTENABLEDFORGOOGLEPAY`](../../../doc/models/notenabledforgooglepay.md) | UnprocessableEntityErrorIssuesItems.fromNOTENABLEDFORGOOGLEPAY(NOTENABLEDFORGOOGLEPAY nOTENABLEDFORGOOGLEPAY) |
+| [`APPLEPAYAMOUNTMISMATCH`](../../../doc/models/applepayamountmismatch.md) | UnprocessableEntityErrorIssuesItems.fromAPPLEPAYAMOUNTMISMATCH(APPLEPAYAMOUNTMISMATCH aPPLEPAYAMOUNTMISMATCH) |
+| [`BILLINGADDRESSINVALID`](../../../doc/models/billingaddressinvalid.md) | UnprocessableEntityErrorIssuesItems.fromBILLINGADDRESSINVALID(BILLINGADDRESSINVALID bILLINGADDRESSINVALID) |
+| [`SHIPPINGADDRESSINVALID`](../../../doc/models/shippingaddressinvalid.md) | UnprocessableEntityErrorIssuesItems.fromSHIPPINGADDRESSINVALID(SHIPPINGADDRESSINVALID sHIPPINGADDRESSINVALID) |
+| [`VAULTINSTRUCTIONDUPLICATED`](../../../doc/models/vaultinstructionduplicated.md) | UnprocessableEntityErrorIssuesItems.fromVAULTINSTRUCTIONDUPLICATED(VAULTINSTRUCTIONDUPLICATED vAULTINSTRUCTIONDUPLICATED) |
+| [`VAULTINSTRUCTIONREQUIRED`](../../../doc/models/vaultinstructionrequired.md) | UnprocessableEntityErrorIssuesItems.fromVAULTINSTRUCTIONREQUIRED(VAULTINSTRUCTIONREQUIRED vAULTINSTRUCTIONREQUIRED) |
+| [`MISMATCHEDVAULTIDTOPAYMENTSOURCE`](../../../doc/models/mismatchedvaultidtopaymentsource.md) | UnprocessableEntityErrorIssuesItems.fromMISMATCHEDVAULTIDTOPAYMENTSOURCE(MISMATCHEDVAULTIDTOPAYMENTSOURCE mISMATCHEDVAULTIDTOPAYMENTSOURCE) |
+| [`CRYPTOGRAMREQUIRED`](../../../doc/models/cryptogramrequired.md) | UnprocessableEntityErrorIssuesItems.fromCRYPTOGRAMREQUIRED(CRYPTOGRAMREQUIRED cRYPTOGRAMREQUIRED) |
+| [`EMVDATAREQUIRED`](../../../doc/models/emvdatarequired.md) | UnprocessableEntityErrorIssuesItems.fromEMVDATAREQUIRED(EMVDATAREQUIRED eMVDATAREQUIRED) |
+| [`NOTELIGIBLEFORPNREFPROCESSING`](../../../doc/models/noteligibleforpnrefprocessing.md) | UnprocessableEntityErrorIssuesItems.fromNOTELIGIBLEFORPNREFPROCESSING(NOTELIGIBLEFORPNREFPROCESSING nOTELIGIBLEFORPNREFPROCESSING) |
+| [`NOTELIGIBLEFORPAYPALTRANSACTIONIDPROCESSING`](../../../doc/models/noteligibleforpaypaltransactionidprocessing.md) | UnprocessableEntityErrorIssuesItems.fromNOTELIGIBLEFORPAYPALTRANSACTIONIDPROCESSING(NOTELIGIBLEFORPAYPALTRANSACTIONIDPROCESSING nOTELIGIBLEFORPAYPALTRANSACTIONIDPROCESSING) |
+| [`PAYPALTRANSACTIONIDNOTFOUND`](../../../doc/models/paypaltransactionidnotfound.md) | UnprocessableEntityErrorIssuesItems.fromPAYPALTRANSACTIONIDNOTFOUND(PAYPALTRANSACTIONIDNOTFOUND pAYPALTRANSACTIONIDNOTFOUND) |
+| [`PNREFNOTFOUND`](../../../doc/models/pnrefnotfound.md) | UnprocessableEntityErrorIssuesItems.fromPNREFNOTFOUND(PNREFNOTFOUND pNREFNOTFOUND) |
+| [`INVALIDSECURITYCODELENGTH`](../../../doc/models/invalidsecuritycodelength.md) | UnprocessableEntityErrorIssuesItems.fromINVALIDSECURITYCODELENGTH(INVALIDSECURITYCODELENGTH iNVALIDSECURITYCODELENGTH) |
+| [`NOTENABLEDTOVAULTPAYMENTSOURCE`](../../../doc/models/notenabledtovaultpaymentsource.md) | UnprocessableEntityErrorIssuesItems.fromNOTENABLEDTOVAULTPAYMENTSOURCE(NOTENABLEDTOVAULTPAYMENTSOURCE nOTENABLEDTOVAULTPAYMENTSOURCE) |
+| [`REQUIREDPARAMETERFORCUSTOMERINITIATEDPAYMENT`](../../../doc/models/requiredparameterforcustomerinitiatedpayment.md) | UnprocessableEntityErrorIssuesItems.fromREQUIREDPARAMETERFORCUSTOMERINITIATEDPAYMENT(REQUIREDPARAMETERFORCUSTOMERINITIATEDPAYMENT rEQUIREDPARAMETERFORCUSTOMERINITIATEDPAYMENT) |
+| [`TOKENEXPIRED`](../../../doc/models/tokenexpired.md) | UnprocessableEntityErrorIssuesItems.fromTOKENEXPIRED(TOKENEXPIRED tOKENEXPIRED) |
+| [`INVALIDGOOGLEPAYTOKEN`](../../../doc/models/invalidgooglepaytoken.md) | UnprocessableEntityErrorIssuesItems.fromINVALIDGOOGLEPAYTOKEN(INVALIDGOOGLEPAYTOKEN iNVALIDGOOGLEPAYTOKEN) |
+| [`GOOGLEPAYGATEWAYMERCHANTIDMISMATCH`](../../../doc/models/googlepaygatewaymerchantidmismatch.md) | UnprocessableEntityErrorIssuesItems.fromGOOGLEPAYGATEWAYMERCHANTIDMISMATCH(GOOGLEPAYGATEWAYMERCHANTIDMISMATCH gOOGLEPAYGATEWAYMERCHANTIDMISMATCH) |
+| [`CryptogramRequired1`](../../../doc/models/cryptogram-required-1.md) | UnprocessableEntityErrorIssuesItems.fromCryptogramRequired1(CryptogramRequired1 cryptogramRequired1) |
+| [`ONEOFPARAMETERSREQUIRED`](../../../doc/models/oneofparametersrequired.md) | UnprocessableEntityErrorIssuesItems.fromONEOFPARAMETERSREQUIRED(ONEOFPARAMETERSREQUIRED oNEOFPARAMETERSREQUIRED) |
+| [`ALIASDECLINEDBYPROCESSOR`](../../../doc/models/aliasdeclinedbyprocessor.md) | UnprocessableEntityErrorIssuesItems.fromALIASDECLINEDBYPROCESSOR(ALIASDECLINEDBYPROCESSOR aLIASDECLINEDBYPROCESSOR) |
+| [`BLIKONECLICKMISSINGREQUIREDPARAMETER`](../../../doc/models/blikoneclickmissingrequiredparameter.md) | UnprocessableEntityErrorIssuesItems.fromBLIKONECLICKMISSINGREQUIREDPARAMETER(BLIKONECLICKMISSINGREQUIREDPARAMETER bLIKONECLICKMISSINGREQUIREDPARAMETER) |
+
